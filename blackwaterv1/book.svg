@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460.989" height="473.789" viewBox="0 0 460.989 473.789">
+  <g id="Symbol_270_2" data-name="Symbol 270 – 2" transform="translate(-272 -384.862)">
+    <g id="Path_34" data-name="Path 34" transform="translate(272 384.862)" fill="rgba(255,255,255,0.87)" opacity="0.815">
+      <path d="M 459.9887084960938 472.7888488769531 L 1.000016570091248 472.7888488769531 L 1.000016570091248 1.000012636184692 L 459.9887084960938 1.000012636184692 L 459.9887084960938 472.7888488769531 Z" stroke="none"/>
+      <path d="M 2 2 L 2 471.7888488769531 L 458.9887390136719 471.7888488769531 L 458.9887390136719 2 L 2 2 M 0 0 L 460.9887390136719 0 L 460.9887390136719 473.7888488769531 L 0 473.7888488769531 L 0 0 Z" stroke="none" fill="#8b8b8b"/>
+    </g>
+    <g id="Input" transform="translate(290.317 423.234)">
+      <g id="Rectangle_1408" data-name="Rectangle 1408" transform="translate(0 30.529)" fill="#fff" stroke="#727272" stroke-width="1">
+        <rect width="425.88" height="73.27" stroke="none"/>
+        <rect x="0.5" y="0.5" width="424.88" height="72.27" fill="none"/>
+      </g>
+      <text id="_09_09_2019" data-name="09/09/2019" transform="translate(30.529 73.952)" fill="#727272" font-size="21" font-family="ArialMT, Arial"><tspan x="0" y="0">09/09/2019</tspan></text>
+      <text id="Date" transform="translate(7.632 18)" font-size="19" font-family="Raleway-Regular, Raleway"><tspan x="0" y="0">Date</tspan></text>
+      <text id="Time" transform="translate(7.632 149.275)" font-size="19" font-family="Raleway-Regular, Raleway"><tspan x="0" y="0">Time</tspan></text>
+    </g>
+    <g id="Input-2" data-name="Input" transform="translate(290.317 585.038)">
+      <g id="Rectangle_1409" data-name="Rectangle 1409" transform="translate(0 0)" fill="#fff" stroke="#727272" stroke-width="1">
+        <rect width="425.88" height="73.27" stroke="none"/>
+        <rect x="0.5" y="0.5" width="424.88" height="72.27" fill="none"/>
+      </g>
+      <text id="_6.30_PM" data-name="6.30 PM" transform="translate(30.529 43.423)" fill="#727272" font-size="21" font-family="ArialMT, Arial"><tspan x="0" y="0">6.30 PM</tspan></text>
+      <g id="Symbol_156_2" data-name="Symbol 156 – 2" transform="translate(386.192 29.003)">
+        <path id="Path_36" data-name="Path 36" d="M9.174,11.311,2,4.137,4.137,2,9.174,7.037,14.212,2l2.137,2.137Z" transform="translate(-2 1.053)" fill="#727272"/>
+        <rect id="Rectangle_1467" data-name="Rectangle 1467" width="15.265" height="15.265" transform="translate(0 0)" fill="none"/>
+      </g>
+    </g>
+    <g id="Calendar" transform="translate(658 276)">
+      <rect id="Rectangle_557" data-name="Rectangle 557" width="22" height="22" transform="translate(24 202.364)" fill="none"/>
+      <path id="Path_149" data-name="Path 149" d="M2.75,6.875V19.25h16.5V6.875ZM17.875,2.75h2.75A1.3,1.3,0,0,1,22,4.125v16.5A1.3,1.3,0,0,1,20.625,22H1.375A1.3,1.3,0,0,1,0,20.625V4.125A1.3,1.3,0,0,1,1.375,2.75h2.75V1.375A1.3,1.3,0,0,1,5.5,0,1.3,1.3,0,0,1,6.875,1.375V2.75h8.25V1.375a1.375,1.375,0,0,1,2.75,0ZM16.5,16.5H13.75V13.75H16.5Zm-4.125,0H9.625V13.75h2.75ZM16.5,12.375H13.75V9.625H16.5Zm-4.125,0H9.625V9.625h2.75ZM8.25,16.5H5.5V13.75H8.25Z" transform="translate(13 199)" fill-rule="evenodd"/>
+    </g>
+    <rect id="Rectangle_144" data-name="Rectangle 144" width="425.88" height="73.27" rx="4" transform="translate(290.317 731.577)" fill="#66211f"/>
+    <text id="CONTINUE" transform="translate(500.333 773.58)" fill="#fff" font-size="14" font-family="Raleway-SemiBold, Raleway" font-weight="600"><tspan x="-36.442" y="0">CONTINUE</tspan></text>
+  </g>
+</svg>

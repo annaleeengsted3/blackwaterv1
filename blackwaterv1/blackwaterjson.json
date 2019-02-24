@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "kategori": "forretter",
+        "navn": "Char Grilled Giffords Bacon",
+        "pris": 15,
+        "kort": "Russisk ringbrød af Karapatisk mel",
+        "lang": "Sweet potato hash, blue cheese fondue, kale, maple and bourbon glaze",
+        "oprindelse": "Karapatien",
+        "billede": "1"
+  },
+    {
+        "id": 2,
+        "kategori": "forretter",
+        "navn": "CAB® Beef Tartare",
+        "pris": 16,
+        "kort": "Cabanossi med rødbedecreme og løg",
+        "lang": "smoked tomato, aioli, shallot, cornichon, caper, parmesan, egg yolk, baguette",
+        "oprindelse": "Krigien",
+        "billede": "2"
+  },
+    {
+        "id": 3,
+        "kategori": "forretter",
+        "navn": "Artisanal Cheese 22 & Meat Board",
+        "pris": 22,
+        "kort": "Brushcetta med russisk Caviar",
+        "lang": "williams honey, spiced nuts, jam, pickles, grilled local bread",
+        "oprindelse": "Sibirien",
+        "billede": "3"
+  },
+    {
+        "id": 4,
+        "kategori": "forretter",
+        "navn": "Grilled Broccolini Salad",
+        "pris": 12,
+        "kort": "Baltisk bondesuppe - en solid starter",
+        "lang": "white balsamic, apple, pecan, whipped noble farms goat cheese, radish, smoked benne seeds",
+        "oprindelse": "Baltikum",
+        "billede": "4"
+  },
+    {
+        "id": 5,
+        "kategori": "forretter",
+        "navn": "Fresh Pea Soup",
+        "pris": 10,
+        "kort": "Baltisk bondesuppe - en solid starter",
+        "lang": "Smoked Pork Belly, Vermont Cheddar and Truffle Croutons",
+        "oprindelse": "Baltikum",
+        "billede": "5"
+  },
+    {
+        "id": 6,
+        "kategori": "forretter",
+        "navn": "Smoked Ricotta Ravioli",
+        "pris": 13,
+        "kort": "Kålsuppe med 7 kålvarianter",
+        "lang": "Sweet potato hash, blue cheese fondue, kale, maple and bourbon glaze",
+        "oprindelse": "Østsibirien",
+        "billede": "6"
+  },
+    {
+        "id": 7,
+        "kategori": "hovedretter",
+        "navn": "40 Day Dry Aged T-Bone 14oz",
+        "pris": 38,
+        "kort": "Cauceskus bulgarske bondesuppe",
+        "lang": "Sweet potato hash, blue cheese fondue, kale, maple and bourbon glaze",
+        "oprindelse": "Bulgarien",
+        "billede": "7"
+  },
+    {
+        "id": 8,
+        "kategori": "hovedretter",
+        "navn": "Dry Aged Prime Bone-in Ribeye 14 oz",
+        "pris": 42,
+        "kort": "Diplomat-bøf med grønt",
+        "lang": "Sweet potato hash, blue cheese fondue, kale, maple and bourbon glaze",
+        "oprindelse": "Viktoriagrad",
+        "billede": "8"
+  },
+    {
+        "id": 9,
+        "kategori": "hovedretter",
+        "navn": "New York Strip 10 oz",
+        "pris": 39,
+        "kort": "Zygroffs bondeplatte - bøndernes svar på Tapas",
+        "lang": "Sweet potato hash, blue cheese fondue, kale, maple and bourbon glaze",
+        "oprindelse": "Sibirien",
+        "billede": "9"
+  },
+    {
+        "id": 10,
+        "kategori": "hovedretter",
+        "navn": "Bison Boneless Strip Steak 12oz",
+        "pris": 44,
+        "kort": "Russisk tapas med tomater og kød",
+        "lang": "Sweet Onion Marmalade, Soy Ginger Glaze",
+        "oprindelse": "Rusland",
+        "billede": "10"
+  },
+    {
+        "id": 11,
+        "kategori": "hovedretter",
+        "navn": "Double Cut Lamb Chops",
+        "pris": 48,
+        "kort": "Den dejlige, alkoholholdige moldaviske fiskesuppe",
+        "lang": "Cabernet Mint Jelly",
+        "oprindelse": "Moldavien",
+        "billede": "11"
+  },
+    {
+        "id": 12,
+        "kategori": "hovedretter",
+        "navn": "Honey Glazed Pork Chops",
+        "pris": 32,
+        "kort": "Dynrup - Russisk bulgur med skovsvampe",
+        "lang": "Sweet Onion Marmalade, Soy Ginger Glaze.",
+        "oprindelse": "Rusland",
+        "billede": "12"
+  },
+    {
+        "id": 13,
+        "kategori": "desserter",
+        "navn": "Key Lime Pie",
+        "pris": 10,
+        "kort": "Brændte pandekager med Bordyriske ørne-kaviar",
+        "lang": "Cinnamon, Pecan, Brown Sugar Graham Cracker Crust and Double Whipped Cream",
+        "oprindelse": "Bordurien",
+        "billede": "13"
+  },
+    {
+        "id": 14,
+        "kategori": "desserter",
+        "navn": "Salted Dark Chocolate Pot de Crème",
+        "pris": 12,
+        "kort": "Guzni - Rødbede/nøddeis",
+        "lang": "rich chocolate custard, salted caramel, chantilly cream, caramel popcorn",
+        "oprindelse": "Petrograd",
+        "billede": "14"
+  },
+    {
+        "id": 14,
+        "kategori": "desserter",
+        "navn": "Salted Dark Chocolate Pot de Crème",
+        "pris": 12,
+        "kort": "Guzni - Rødbede/nøddeis",
+        "lang": "rich chocolate custard, salted caramel, chantilly cream, caramel popcorn",
+        "oprindelse": "Petrograd",
+        "billede": "14"
+  },
+    {
+        "id": 15,
+        "kategori": "desserter",
+        "navn": "Winter Apple Crisp",
+        "pris": 11,
+        "kort": "Kirgisisk roulade bestående af nødder og rødkål",
+        "lang": "spiced slow-cooked apples, rosemary, cinnamon oat streusel, dulce de leche ice cream",
+        "oprindelse": "Kirgisistan",
+        "billede": "15"
+  }
+]
